@@ -1,6 +1,11 @@
 ## Criando primeiro fluxo de CI/CD
 
-# 1 Criando aplicação no Beanstalk (imagem)
+
+# 1 Baixe o repositorio do GitHub 
+``
+git clone Viniciusgilds/elasticbeanstalkCICD
+``
+# 2 Criando aplicação no Beanstalk (imagem)
 
 - Ambiente de servidor web
 - Escolha um nome para a aplicação
@@ -22,7 +27,7 @@ Passo 4
 - Crie ou adicione o SG, com as permissões HTTP porta 80 permitindo todo trafego
 - Escolha a instância T3-Medium
 
-# 2 Configurando CodePipeline
+# 3 Configurando CodePipeline
 
 Passo 1
 - Nome:bia-pipeline-youtube
