@@ -1,11 +1,12 @@
 ## Criando primeiro fluxo de CI/CD
 
+https://github.com/Viniciusgilds/elasticbeanstalkCICD/blob/main/tutorialinstalacao/Projeto%20beanstalk.png
 
 # 1 Baixe o repositorio do GitHub 
 ``
 git clone Viniciusgilds/elasticbeanstalkCICD
 ``
-# 2 Criando aplicação no Beanstalk (imagem)
+# 2 Criando aplicação no Beanstalk
 
 - Ambiente de servidor web
 - Escolha um nome para a aplicação
