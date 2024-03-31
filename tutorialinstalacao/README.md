@@ -3,9 +3,9 @@
 https://github.com/Viniciusgilds/elasticbeanstalkCICD/blob/main/tutorialinstalacao/Projeto%20beanstalk.png
 
 # 1 Baixe o repositorio do GitHub 
-``
-git clone Viniciusgilds/elasticbeanstalkCICD
-``
+```
+git clone https://github.com/Viniciusgilds/elasticbeanstalkCICD
+```
 # 2 Criando aplicação no Beanstalk
 
 - Ambiente de servidor web
